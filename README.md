@@ -1,5 +1,7 @@
-Hackathon Big Sample Data (EXPERIMENTAL)
+Hackathon Big Sample Data (EXPERIMENTAL/ABANDONED)
 ===================
+
+Please see: https://github.com/elgentos/masquerade which is a very well put together faker sample date generation toolkit. It realized most of the goals of this project.
 
 Introduction
 ------------
